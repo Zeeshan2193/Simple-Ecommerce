@@ -57,7 +57,7 @@ export const ProductDetail = () =>{
         <Grid item xs={8}>
           <Paper className={classes.paper}>
           
-    <img src={Shoes[id].img} className={classes.sImg}   />
+    <img src={Shoes[id].img} className={classes.sImg}  alt={Shoes[id].name} />
     
           </Paper>
         </Grid>
