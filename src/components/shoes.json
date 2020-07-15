@@ -1,0 +1,36 @@
+{
+ "nike-air-force-1'07" :{
+     "name": "Nike Air Force 1'07",
+    "img": "https://static.nike.com/a/images/f_auto/q_auto/t_PDP_864_v1/dc1ad96c-a68b-4e45-b4b6-49711a80c519/air-force-1-07-mens-shoe-kpQKZt.jpg",
+    "price": "110$",
+    "detail":"The Nike SB Nyjah Free 2 is a sequel worthy of its predecessor. Inspired by the iconic Nike Air Zoom Spiridon, the original rubber design has been updated with mesh panels to help your feet stay cool through your hottest skate sessions. "
+ },
+ "nike-killshot-OG-SP" :{
+    "name": "Nike Killshot OG SP",
+   "img": "https://static.nike.com/a/images/f_auto/q_auto/t_PDP_864_v1/98652a6e-a3a2-4dae-a96c-fc15e8f3d3f0/killshot-og-sp-mens-shoe-t4btPQ.jpg",
+   "price": "90$",
+   "detail":"The Nike SB Nyjah Free 2 is a sequel worthy of its predecessor. Inspired by the iconic Nike Air Zoom Spiridon, the original rubber design has been updated with mesh panels to help your feet stay cool through your hottest skate sessions. "
+ 
+},
+"air-jordan-1-mid" :{
+    "name": "Air Jordan 1 Mid",
+   "img": "https://static.nike.com/a/images/f_auto/q_auto/t_PDP_864_v1/i1-a1baccb1-c212-499d-b194-bfe6044699e8/air-jordan-1-mid-shoe-1zMCFJ.jpg",
+   "price": "115$",
+   "detail":"The Nike SB Nyjah Free 2 is a sequel worthy of its predecessor. Inspired by the iconic Nike Air Zoom Spiridon, the original rubber design has been updated with mesh panels to help your feet stay cool through your hottest skate sessions. "
+ 
+},
+"nike-zoom-fly-3" :{
+    "name": "Nike Zoom Fly 3",
+   "img": "https://static.nike.com/a/images/f_auto/q_auto/t_PDP_864_v1/f8fa9135-1e87-47ae-bb89-9f5c94884d90/zoom-fly-3-mens-running-shoe-XhzpPH.jpg",
+   "price": "160$",
+   "detail":"The Nike SB Nyjah Free 2 is a sequel worthy of its predecessor. Inspired by the iconic Nike Air Zoom Spiridon, the original rubber design has been updated with mesh panels to help your feet stay cool through your hottest skate sessions. "
+ 
+},
+"nike-sb-nyjah-free-2" :{
+    "name": "Nike SB Nyjah Free 2",
+   "img": "https://static.nike.com/a/images/f_auto/q_auto/t_PDP_864_v1/4688228a-b95b-4e49-9127-54723a205f1e/sb-nyjah-free-2-skate-shoe-MNkJB3.jpg",
+   "price": "95$",
+   "detail":"The Nike SB Nyjah Free 2 is a sequel worthy of its predecessor. Inspired by the iconic Nike Air Zoom Spiridon, the original rubber design has been updated with mesh panels to help your feet stay cool through your hottest skate sessions. "
+ 
+}
+}
